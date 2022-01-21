@@ -5,6 +5,15 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
+  <properties>
+  
+  
+ <maven.compiler.source>11</maven.compiler.source>
+ <maven.compiler.targer>11</maven.compiler.targer>
+  
+  
+  </properties>
+  
   <dependencies>
   
   <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -23,9 +32,6 @@
     <artifactId>selenium-java</artifactId>
     <version>3.11.0</version>
 </dependency>
-  
-  
-  
   
   
   
